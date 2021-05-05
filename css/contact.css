@@ -1,0 +1,29 @@
+body{
+    background-image: url("https://image.freepik.com/free-vector/girly-pink-background_53876-85150.jpg");
+    background-size: cover;
+    
+}
+
+h1{
+    text-align: center;
+    color: #800000;
+    font-size: 50px;
+}
+img{
+    float: right;  
+    opacity: 60%;
+}
+h2{
+    text-emphasis-style: bold;
+}
+div{
+    font-size: 30px;
+    padding-top: 0px;
+    padding-left: 30px;
+    width: 600px;
+    height: 600px;
+    margin-left: 80px;
+    border: 1px solid ;
+    box-sizing: border-box;
+    box-shadow: 0px 6px 5px 3px rgba(19, 45, 192, 0.2) , 0 0 8px 6px #800000;
+}

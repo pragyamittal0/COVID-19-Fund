@@ -1,0 +1,70 @@
+body{
+  background-image: url("https://image.freepik.com/free-vector/covid-19-coronavirus-outbreak-design-with-falling-virus-cell-typography-letter-light-background-vector-2019-ncov-corona-virus-illustration-dangerous-sars-epidemic-theme-banner_1314-2724.jpg");
+  background-size: cover;
+}
+nav {
+    box-shadow: 0 2px 2px 0 rgba(16, 168, 23, 0.2);
+  }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a, form {
+    display: block;
+    color: rgb(6, 99, 105);
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 30px;
+  }
+  
+  li a:hover:not(.active) , form {
+    background-color: transparent;
+    border: 2px solid white; 
+  }
+  
+  .active {
+    background-color: #FEFBEA;
+  }
+  h1{
+      text-align: center;
+      color: darkgreen;
+      text-shadow: teal;
+      padding-top: 25px;
+  }
+  
+  .container:hover{
+    display: block;
+    background-color:#FEFBEA;
+  }
+  .img{
+      float: right;
+      padding-right: 45px;
+      
+      
+     
+  }
+  .para{
+      font-size: 30px;
+      padding-top: 55px;
+      padding-left: 15px;
+      padding-bottom: 5px;
+      color: rgb(46, 46, 212);
+      box-shadow: 3px 6px 5px 3px rgba(19, 45, 192, 0.2) , 0 0 8px 6px #008000;
+      width: 800px;
+      height: 450px;
+    
+  }
+  input{
+    float: right;
+    padding-right: 60px;
+    padding-top: 10px;
+  }
