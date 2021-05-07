@@ -1,7 +1,7 @@
-#The Sparks Foundation Internship
-##Task-3
+# The Sparks Foundation Internship
+## Task-3
 Payment-Gateway-Integeration
-##Website Name:
+## Website Name:
 # COVID-19 Fund
 COVID-19 FUND is aimed at
 strengthening the fight against
@@ -20,4 +20,5 @@ Project is created with:
    *Third party integration system- Razorpay
 ### Environment 
    * VS Code
-[![Watch the video](https://github.com/pragyamittal0/COVID-19-Fund)](https://youtu.be/8do7XTUkMnQ)
+   
+   Youtube Link: (https://youtu.be/8do7XTUkMnQ)
