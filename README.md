@@ -21,4 +21,4 @@ Project is created with:
 ### Environment 
    * VS Code
    
-   [![Watch the video](https://image.freepik.com/free-vector/about-us-concept-illustration_114360-639.jpg)](https://youtu.be/8do7XTUkMnQ)
+   [![Watch the video](https://www.goodwill.ab.ca/wp-content/uploads/2016/02/Donate-Box_goodwill.png)](https://youtu.be/8do7XTUkMnQ)
